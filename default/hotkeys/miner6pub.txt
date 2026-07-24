@@ -1,0 +1,1 @@
+{"publicKey":"0x64a90b4765192d52569efd51d8c11b625e07de525a45f32da4cdf43d41aa5b5b","ss58Address":"5ELgrxiFAcevmKd6ro3z6ePTJcBz5NGYGF6umxbpQgiFAAqV","accountId":"0x64a90b4765192d52569efd51d8c11b625e07de525a45f32da4cdf43d41aa5b5b"}
